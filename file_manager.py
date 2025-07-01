@@ -216,7 +216,7 @@ def choice_of_function():
             remove_files(folder=destination, extension=value, size=value, choice=choice)
 
     elif operation == "3":
-        print("Tzover")
+        print("This feature will come in few days....")
 
 # Check if path is valid
 def get_valid_folder_path():
