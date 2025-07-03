@@ -14,7 +14,7 @@ A simple and interactive Python app to manage files.
 ```bash
 git clone https://github.com/pipos4k/File_Manager.git
 cd File_Manager
-bash: python file_manager.py
+python file_manager.py
 ```
 ## License
 MIT License — use, modify, and share freely.
